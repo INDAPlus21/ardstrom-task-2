@@ -1,5 +1,4 @@
 use std::io;
-use std::io::prelude::*;
 
 fn main() {
     let mut string = String::new();
